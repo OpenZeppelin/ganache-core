@@ -3905,7 +3905,7 @@
       }
     },
     "ethereumjs-vm": {
-      "version": "github:frangio/ethereumjs-vm#b20888a097a4ec3dfcbd142f33c25bd7717e30e6",
+      "version": "github:frangio/ethereumjs-vm#f514efb07292e08f2481837d28869ba5c1de9aa2",
       "from": "github:frangio/ethereumjs-vm#coverage",
       "requires": {
         "async": "^2.1.2",
